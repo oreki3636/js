@@ -9,7 +9,8 @@ const swiper = new Swiper('.swiper', {
 
    //ナビゲーションボタン（矢印）表示の設定
    navigation: {
-     nextEl: '.swiper-button-naxt',
+     nextEl: '.swiper-button-next',
      prevEl: '.swiper-button-prev',
+
    }
 });
